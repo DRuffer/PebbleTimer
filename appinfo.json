@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "Tea Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cup_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/tea-sign.png",
+                "name": "TEA_SIGN",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tea Timer",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "89bcd079-41b7-4d8c-bc38-af385d86a55c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
